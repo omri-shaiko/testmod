@@ -4,5 +4,5 @@ import "fmt"
 
 // Print prints something
 func Print() {
-	fmt.Println("Test go mod versios")
+	fmt.Println("Test go mod v2")
 }
